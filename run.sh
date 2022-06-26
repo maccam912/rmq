@@ -1,3 +1,5 @@
+#!/bin/bash
+set -ex
 # sudo dnf install git curl -y
 # curl -sSL https://get.docker.com | bash
 # systemctl enable --now docker
